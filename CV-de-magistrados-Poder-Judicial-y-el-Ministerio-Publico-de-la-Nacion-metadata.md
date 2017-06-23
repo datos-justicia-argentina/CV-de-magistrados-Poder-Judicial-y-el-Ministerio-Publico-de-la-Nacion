@@ -1,5 +1,5 @@
-Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público de la Nación
-===============================================================================================================
+Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público
+==================================================================================================
 
 En este conjunto de datos se detallan los Curriculums Vitae de los magistrados ternados para cubrir las vacantes en el Poder Judicial y los Ministerios Públicos de la Nación, y los concursos en los cuales se presentaron.
 
@@ -23,9 +23,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público de la Nación
+### Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público
 
--   **Nombre:** cv-magistrados-poder-judicial-ministerio-publico.csv
+-   **Nombre:** cv-magistrados-poder-judicial-ministerio-publico-AAAA-MM-DD.csv
 
 -   **Descripción:** Curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.
 
