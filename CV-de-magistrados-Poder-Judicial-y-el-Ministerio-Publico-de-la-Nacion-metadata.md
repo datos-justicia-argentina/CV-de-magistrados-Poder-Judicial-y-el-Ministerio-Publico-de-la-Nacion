@@ -6,7 +6,7 @@ En este conjunto de datos se detallan los Curriculums Vitae de los magistrados t
 Características
 ---------------
 
--   **Fecha de Publicación:** 
+-   **Fecha de Publicación:** 28/06/2017
 
 -   **Tags o Etiquetas:** juez, fiscal, defensor, magistrado, vacante, cargo, concurso, justicia, poder judicial, ministerio público, curriculum
 
@@ -27,42 +27,42 @@ Recursos disponibles
 
 -   **Nombre:** cv-magistrados-poder-judicial-ministerio-publico-AAAA-MM-DD.csv
 
--   **Descripción:** Curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso
+-   **Descripción:** curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **numero\_curriculum (string):** Número de curriculum vitae de un magistrado, puede haber más de un curriculum por magistrado en caso de se que haya presentado en más de un concurso
+-   **numero\_curriculum (string):** número de curriculum vitae de un magistrado, puede haber más de un curriculum por magistrado en caso de se que haya presentado en más de un concurso
 
--   **nombre\_magistrado (string):** Nombre del magistrado al que pertenece el curriculum vitae
+-   **nombre\_magistrado (string):** nombre del magistrado al que pertenece el curriculum vitae
 
 -   **dni\_magistrado (int):** DNI del magistrado al que pertenece el curriculum vitae
 
--   **numero\_expediente\_concurso (int):** Número de expediente con el que se tramitó el concurso para la selección de magistrados
+-   **numero\_expediente\_concurso (int):** número de expediente con el que se tramitó el concurso para la selección de magistrados
 
--   **numero\_concurso (int):** Número de concurso al que se postuló el magistrado
+-   **numero\_concurso (int):** número de concurso al que se postuló el magistrado
 
--   **ambito\_origen\_concurso\_descripcion (string):** Descripción del ámbito en el cuál se originó el concurso. Valores posibles: Consejo de la Magistratura de la Nación, Ministerio Público Fiscal y Ministerio Público de la Defensa
+-   **ambito\_origen\_concurso\_descripcion (string):** descripción del ámbito en el cuál se originó el concurso. Valores posibles: Consejo de la Magistratura de la Nación, Ministerio Público Fiscal y Ministerio Público de la Defensa
 
--   **fecha\_nacimiento\_magistrado (date):** Fecha de nacimiento del magistrado que presentó el curriculum vitae
+-   **fecha\_nacimiento\_magistrado (date):** fecha de nacimiento del magistrado que presentó el curriculum vitae
 
--   **nacionalidad\_magistrado (string):** Nacionalidad del magistrado que presentó el curriculum vitae
+-   **nacionalidad\_magistrado (string):** nacionalidad del magistrado que presentó el curriculum vitae
 
--   **localidad\_nacimiento\_magistrado (string):** Localidad en la que nació del magistrado que presentó el curriculum vitae
+-   **localidad\_nacimiento\_magistrado (string):** localidad en la que nació del magistrado que presentó el curriculum vitae
 
--   **provincia\_nacimiento\_magistrado (string):** Provincia en la que nació el magistrado que presentó el curriculum vitae
+-   **provincia\_nacimiento\_magistrado (string):** provincia en la que nació el magistrado que presentó el curriculum vitae
 
--   **universidad (string):** Universidad a la que asistió el magistrado que presentó el curriculum vitae
+-   **universidad (string):** universidad a la que asistió el magistrado que presentó el curriculum vitae
 
--   **facultad (string):** Facultad a la que asistió el magistrado que presentó el curriculum vitae
+-   **facultad (string):** facultad a la que asistió el magistrado que presentó el curriculum vitae
 
--   **fecha\_titulo (date):** Fecha de expedición del título de grado del magistrado que presentó el curriculum vitae
+-   **fecha\_titulo (date):** fecha de expedición del título de grado del magistrado que presentó el curriculum vitae
 
--   **fecha\_certificado\_reincidencia (date):** Fecha en la que fue expedido el certificado de reincidencia del magistrado que presentó el curriculum vitae
+-   **fecha\_certificado\_reincidencia (date):** fecha en la que fue expedido el certificado de reincidencia del magistrado que presentó el curriculum vitae
 
--   **link\_txt\_curriculum\_magistrado (string):** Link al curriculum vitae del magistrado
+-   **link\_txt\_curriculum\_magistrado (string):** link al curriculum vitae del magistrado
 
--   **link\_html\_curriculum\_magistrado (string):** Link al curriculum vitae del magistrado
+-   **link\_html\_curriculum\_magistrado (string):** link al curriculum vitae del magistrado
