@@ -6,7 +6,7 @@ En este conjunto de datos se detallan los Curriculums Vitae de los magistrados t
 Características
 ---------------
 
--   **Fecha de Publicación:** 28/06/2017
+-   **Fecha de Primera Publicación:** 28/06/2017
 
 -   **Tags o Etiquetas:** juez, fiscal, defensor, magistrado, vacante, cargo, concurso, justicia, poder judicial, ministerio público, curriculum
 
