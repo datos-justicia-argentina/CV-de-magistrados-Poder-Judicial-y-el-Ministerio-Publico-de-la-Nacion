@@ -1,12 +1,12 @@
 Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público
 ==================================================================================================
 
-En este conjunto de datos se detallan los Curriculums Vitae de los magistrados ternados para cubrir las vacantes en el Poder Judicial y los Ministerios Públicos de la Nación, y los concursos en los cuales se presentaron.
+En este conjunto de datos se detallan los Curriculums Vitae de los magistrados ternados para cubrir las vacantes en el Poder Judicial y los Ministerios Públicos de la Nación, y los concursos en los cuales se presentaron. Cada recurso publicado incluye toda la información con que se cuenta a la fecha de la publicación.
 
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** 28/06/2017
+-   **Fecha de Primera** **Publicación:** 28/06/2017
 
 -   **Tags o Etiquetas:** juez, fiscal, defensor, magistrado, vacante, cargo, concurso, justicia, poder judicial, ministerio público, curriculum
 
@@ -14,7 +14,7 @@ Características
 
 -   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Oficina Decretos.
 
 -   **Grupo:** Poder Judicial
 
@@ -27,7 +27,7 @@ Recursos disponibles
 
 -   **Nombre:** cv-magistrados-poder-judicial-ministerio-publico-AAAA-MM-DD.csv
 
--   **Descripción:** curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso
+-   **Descripción:** curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -45,7 +45,7 @@ Recursos disponibles
 
 -   **numero\_concurso (int):** número de concurso al que se postuló el magistrado
 
--   **ambito\_origen\_concurso\_descripcion (string):** descripción del ámbito en el cuál se originó el concurso. Valores posibles: Consejo de la Magistratura de la Nación, Ministerio Público Fiscal y Ministerio Público de la Defensa
+-   **ambito\_origen\_concurso\_descripcion (string):** descripción del ámbito en el cuál se originó el concurso. Valores posibles: Consejo de la Magistratura de la Nación, Ministerio Público Fiscal y Ministerio Público de la Defensa,
 
 -   **fecha\_nacimiento\_magistrado (date):** fecha de nacimiento del magistrado que presentó el curriculum vitae
 
