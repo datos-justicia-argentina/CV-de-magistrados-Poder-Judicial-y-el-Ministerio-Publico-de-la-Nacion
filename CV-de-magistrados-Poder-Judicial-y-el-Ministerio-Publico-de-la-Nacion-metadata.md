@@ -8,7 +8,7 @@ Características
 
 -   **Fecha de Primera** **Publicación:** 28/06/2017
 
--   **Tags o Etiquetas:** juez, fiscal, defensor, magistrado, vacante, cargo, concurso, justicia, poder judicial, ministerio público, curriculum
+-   **Tags o Etiquetas:** jueces, fiscales, defensores, magistrados, vacantes, cargos, concursos, justicia, poder judicial, ministerio público, curriculum vitae
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios
 
@@ -27,7 +27,7 @@ Recursos disponibles
 
 -   **Nombre:** cv-magistrados-poder-judicial-ministerio-publico-AAAA-MM-DD.csv
 
--   **Descripción:** curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.
+-   **Descripción del contenido:** detalle de los curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
