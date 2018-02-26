@@ -3,6 +3,8 @@ Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el 
 
 En este conjunto de datos se detallan los Curriculums Vitae de los magistrados ternados para cubrir las vacantes en el Poder Judicial y los Ministerios Públicos de la Nación, y los concursos en los cuales se presentaron. Cada recurso publicado incluye toda la información con que se cuenta a la fecha de la publicación.
 
+http://datos.jus.gob.ar/dataset/curriculums-vitae-de-magistrados-para-cubrir-vacantes-en-el-poder-judicial-y-el-ministerio-publico
+
 Características
 ---------------
 
