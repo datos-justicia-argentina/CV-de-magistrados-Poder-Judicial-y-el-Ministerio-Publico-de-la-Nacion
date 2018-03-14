@@ -68,3 +68,7 @@ Recursos disponibles
 -   **link\_txt\_curriculum\_magistrado (string):** link al curriculum vitae del magistrado
 
 -   **link\_html\_curriculum\_magistrado (string):** link al curriculum vitae del magistrado
+
+Notas
+-----
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
