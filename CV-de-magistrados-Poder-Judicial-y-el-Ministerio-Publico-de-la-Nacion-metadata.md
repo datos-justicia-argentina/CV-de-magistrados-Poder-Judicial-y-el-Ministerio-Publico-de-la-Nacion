@@ -69,6 +69,8 @@ Recursos disponibles
 
 -   **link\_html\_curriculum\_magistrado (string):** link al curriculum vitae del magistrado
 
+-   **provincia\_nacimiento\_magistrado_indec_id (string):** código de provincia en la que nació el magistrado que presentó el curriculum vitae, según la codificación implementada por INDEC
+
 ### Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público - AAAA
 
 -   **Nombre:** cv-magistrados-poder-judicial-ministerio-publico-AAAA.zip
