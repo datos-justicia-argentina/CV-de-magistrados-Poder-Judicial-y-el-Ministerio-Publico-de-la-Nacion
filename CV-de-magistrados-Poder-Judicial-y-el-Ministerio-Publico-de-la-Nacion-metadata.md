@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** jueces, fiscales, defensores, magistrados, vacantes, cargos, concursos, justicia, poder judicial, ministerio público, curriculum vitae
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial. Oficina Decretos
+-   **Organización:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial. Oficina Decretos
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial. Oficina Decretos
+-   **Autor:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial. Oficina Decretos
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial. Oficina Decretos
+-   **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial. Oficina Decretos
 
 -   **Grupo:** Poder Judicial
 
@@ -84,4 +84,4 @@ Notas
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
